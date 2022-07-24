@@ -1,7 +1,3 @@
-//D3 resources: https://www.youtube.com/watch?v=znBBk_M95QY
-//https://www.youtube.com/watch?v=11QMX7vA22Y&t=785s
-//timeParse resources: https://github.com/d3/d3-time#_interval
-//https://stackoverflow.com/questions/32428122/what-scale-to-use-for-representing-years-only-on-x-axis-in-d3-js
 
 document.addEventListener('DOMContentLoaded', function () {
   req = new XMLHttpRequest();
